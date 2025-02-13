@@ -1,0 +1,9 @@
+Recreate this program in Java. Adhere to the constraints listed at the bottom.
+Constraints
+
+    dep cannot be global.
+    Utilize input validation in getReady().
+    A for loop must be used in finishUp().
+        Use the length of the array for the condition.
+    Utilize parameters and returns.
+    Have finishUp() method close the Scanner.
